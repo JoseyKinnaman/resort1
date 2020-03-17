@@ -24,6 +24,14 @@ div.desc {
   margin-top: 15%;
 }
 
+#gallery {
+  margin-right: 15%;
+  margin-left: 15%;
+  padding: 15%;
+  border: 5px;
+}
+
 body {
   background-image: url("https://www.solarantiquetiles.com/wp-content/uploads/dutch36q53.jpg");
+  font-family: cursive;
 }
